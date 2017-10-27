@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Oct 27 12:33:45 CST 2017
+1.base=D\:\\android\\project\\MulThreadDownloader\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\android\\project\\MulThreadDownloader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.file=D\:\\android\\project\\MulThreadDownloader\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=DEX
+2.base=D\:\\android\\project\\MulThreadDownloader\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\android\\project\\MulThreadDownloader\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=D\:\\android\\project\\MulThreadDownloader\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\android\\project\\MulThreadDownloader\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\android\\project\\MulThreadDownloader\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=D\:\\android\\project\\MulThreadDownloader\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+4.base=D\:\\android\\project\\MulThreadDownloader\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
